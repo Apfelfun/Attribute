@@ -1,0 +1,64 @@
+body {
+  margin: 0;
+  height: 100vh;
+  width:  100vw;
+}
+
+hr {
+  width: 80%;
+}
+
+.ul {
+  list-style-type: none;
+}
+
+#left {
+  width: 76vw;
+  height: 100vh;
+  float: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
+#right {
+  width: 19vw;
+  height: 100vh;
+  border-left: 1px solid;
+  border-color: gray;
+  float: right;
+}
+
+#space1 {
+  padding-top: 5px;
+}
+
+#blue-button {
+  color: blue;
+}
+
+.center {
+  text-align: center;
+}
+
+.top {
+  margin-top: 0;
+}
+
+.bottom {
+  margin-bottom: 0;
+}
+
+.margin {
+  margin: 30px;
+}
+
+.quote-bg {
+  background-color: lightgray;
+}
+
+.padding {
+  padding: 15px;
+}
+
+.color-gray {
+  color: gray;
+}
